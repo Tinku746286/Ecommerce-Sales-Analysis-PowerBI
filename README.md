@@ -48,7 +48,6 @@ The dashboard provides insights into:
 ## Repository Contents
 - Power BI Dashboard (.pbix)
 - Dashboard Screenshots
-- Source Dataset (if shareable)
 
 ## Author
 **Tinku Kumar**
