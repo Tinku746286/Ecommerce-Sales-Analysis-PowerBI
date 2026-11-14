@@ -5,11 +5,7 @@ An interactive Power BI dashboard developed to analyze e-commerce sales performa
 
 ## Tools Used
 - Microsoft Power BI
-- Power Query (if used)
-- DAX (if used)
-
-## Dashboard Preview
-![E-Commerce Dashboard](Screenshots/Ecommerce_Dashboard.png)
+- DAX 
 
 ## Key Performance Indicators
 - Total Sales
