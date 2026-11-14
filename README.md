@@ -1,37 +1,54 @@
-# E-Commerce Sales & Business Performance Analysis
+# E-Commerce Sales Dashboard & Business Analysis
 
 ## Project Overview
-An interactive Power BI dashboard developed to analyze e-commerce sales performance, profitability, customer purchasing behavior, and regional business performance.
+Developed an interactive dashboard to track, analyze, and visualize online sales data. The project focuses on exploring sales performance, customer behavior, product categories, payment methods, and profitability through interactive visualizations.
 
-## Tools Used
+## Tools & Technologies
 - Microsoft Power BI
-- DAX 
+- Data Modeling
+- Data Transformation
+- Data Visualization
 
-## Key Performance Indicators
-- Total Sales
-- Total Quantity
-- Total Profit
-- Average Order Value (AOV)
+## Project Learnings & Implementation
 
-## Key Analysis
-- Sales performance across different states.
-- Quantity distribution by payment mode.
-- Product category performance.
-- Customer-wise sales analysis.
-- Monthly profit trends.
-- Profitability by product sub-category.
+- Created an interactive dashboard to track and analyze online sales data.
+- Used parameters, filters, and slicers to drill down into data and customize analysis.
+- Established data connections, joined multiple tables, and performed calculations to manipulate data and support dynamic visualizations.
+- Developed customized visualizations to present business insights effectively.
 
-## Business Objectives
-- Identify high-performing states and product categories.
-- Understand customer purchasing patterns.
-- Analyze payment preferences.
-- Monitor monthly profitability.
-- Identify areas for business improvement.
+## Visualizations Used
+- Bar Chart
+- Pie Chart
+- Donut Chart
+- Clustered Bar Chart
+- Scatter Chart
+- Line Chart
+- Area Chart
+- Map
+- Interactive Slicers
+
+## Dashboard Analysis
+The dashboard provides insights into:
+
+- Sales and quantity performance.
+- Profitability across different months.
+- State-wise sales distribution.
+- Customer-wise sales performance.
+- Product category and sub-category analysis.
+- Payment mode distribution.
+
+## Key Objectives
+- Monitor overall e-commerce sales performance.
+- Identify top-performing products and regions.
+- Analyze customer purchasing patterns.
+- Understand payment preferences.
+- Evaluate profitability trends.
+- Support data-driven business decisions.
 
 ## Repository Contents
-- Dashboard: Power BI PBIX file.
-- Screenshots: Dashboard preview.
-- Dataset: Source data (if shareable).
+- Power BI Dashboard (.pbix)
+- Dashboard Screenshots
+- Source Dataset (if shareable)
 
 ## Author
-Tinku Kumar
+**Tinku Kumar**
