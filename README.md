@@ -3,6 +3,10 @@
 ## Project Overview
 Developed an interactive dashboard to track, analyze, and visualize online sales data. The project focuses on exploring sales performance, customer behavior, product categories, payment methods, and profitability through interactive visualizations.
 
+##📊 Dashboard Preview
+![E-Commerce Dashboard Preview](Ecommerce_Dashboard.png)
+
+
 ## Tools & Technologies
 - Microsoft Power BI
 - Data Modeling
